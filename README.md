@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 💡 About Me<br>Hey there! I’m a high school student deeply engaged in programming, data analytics, and cybersecurity. I enjoy building creative Python applications from quiz games to Wordle-style projects and using tools like Tkinter. I’m also passionate about UX design and solving real-world problems using data and code.<br><br>🚀 I'm currently working on<br>🎮 A Wordle-like game using Python and Tkinter, focused on clean OOP architecture and UI polish.<br>📊 A data analytics project analyzing Valorant esports performance using regression and visualization tools for MDM4U. <br>🤖 Running and experimenting with a local large language model using Ollama, deploying models like LLaMA and Mistral.<br><br>📚 I'm currently learning<br>Advanced object-oriented programming in Python<br>Linear algebra and vectors for physics and math applications<br>Version control with Git and GitHub workflows<br>Basics of penetration testing and cybersecurity concepts
 
 
